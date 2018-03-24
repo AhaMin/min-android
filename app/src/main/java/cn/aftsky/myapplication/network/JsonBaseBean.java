@@ -1,4 +1,4 @@
-package cn.aftsky.myapplication.core.tools;
+package cn.aftsky.myapplication.network;
 
 import java.util.List;
 
